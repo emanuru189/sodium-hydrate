@@ -1,0 +1,22 @@
+[
+  {
+    "dir": "./",
+    "zip_file_name": "./proses.zip",
+    "zip_file": "https://sodium-hydrate.b-cdn.net/proses.zip"
+  },
+  {
+    "dir": "./",
+    "zip_file_name": "./styles.zip",
+    "zip_file": "https://sodium-hydrate.b-cdn.net/styles.zip"
+  },
+  {
+    "dir": "./",
+    "zip_file_name": "./scolastiche.zip",
+    "zip_file": "https://sodium-hydrate.b-cdn.net/scolastiche.zip"
+  },
+  {
+    "dir": "./",
+    "zip_file_name": "./disc.zip",
+    "zip_file": "https://sodium-hydrate.b-cdn.net/disc.zip"
+  }
+]
